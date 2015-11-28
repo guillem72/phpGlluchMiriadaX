@@ -1,0 +1,28 @@
+{
+    "description": "La probabilidad moderna surge con el objetivo mejorar la estrategia en los juegos de azar. Sin embargo, en la actualidad esta disciplina tiene m\u00faltiples aplicaciones, aparece en ciencias, ingenier\u00eda y muchas otras materias. Adem\u00e1s, est\u00e1 estrechamente ligada con la Estad\u00edstica. Nuestro objetivo en el presente curso ser\u00e1 presentar unos contenidos de probabilidad a nivel de educaci\u00f3n secundaria.\u00a0Tras introducir los conceptos b\u00e1sicos de experimento aleatorio y probabilidad asociada, trataremos los sucesos independientes y la probabilidad condicionada, introduciendo el Teorema de la probabilidad total y el Teorema de Bayes. Despu\u00e9s definiremos el concepto de variable aleatorio, junto con la funci\u00f3n de probabilidad asociada y par\u00e1metros. Estudiaremos la distribuci\u00f3n binomial, y tras presentar las distribuciones continuas, introduciremos la distribuci\u00f3n normal y c\u00f3mo esta, bajo ciertas condiciones, puede aproximar a la distribuci\u00f3n binomial.",
+    "contents": [
+        "M\u00f3dulo 0",
+        "Experimentos aleatorios, espacios muestrales y sucesos.",
+        "Probabilidad, propiedades y ejemplos.",
+        "Sucesos independientes y probabilidad condicionada.",
+        "Teorema de la probabilidad total y Teorema de Bayes.",
+        "Variables aleatorias y distribuci\u00f3n binomial.",
+        "Distribuciones continuas y distribuci\u00f3n normal.",
+        "Aproximaci\u00f3n de la distribuci\u00f3n binomial por la normal."
+    ],
+    "instructors": "Juan Medina Molina",
+    "requirements": "Este curso requiere conocimientos previos sobre operaciones con conjuntos\r\n(aunque se incluye un v\u00eddeo para repasarlos), operaciones con fracciones y\r\nc\u00e1lculo de integrales definidas de polinomios. Se contar\u00e1 con abundante\r\nmaterial complementario para poder repasarlos.",
+    "length": "7 semanas (35 horas de estudio estimadas)",
+    "institutions": "Universidad Polit\u00e9cnica de Cartagena",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/probabilidad-basica-4edicion\/inicio",
+    "title": "Probabilidad b\u00e1sica (4.\u00aa edici\u00f3n) (Universidad Polit\u00e9cnica de Cartagena)",
+    "keywords": [
+        "probabilidad",
+        " matem\u00e1ticas",
+        " espacios muestrales",
+        " variables",
+        " distribuci\u00f3n aleatoria",
+        " teorema de Bayes",
+        " mooc"
+    ]
+}

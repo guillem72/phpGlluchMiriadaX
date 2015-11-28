@@ -1,0 +1,25 @@
+{
+    "description": "En este curso presentaremos los contenidos fundamentales sobre Estad\u00edstica descriptiva. Empezaremos por la estad\u00edstica unidimensional con el concepto de variable estad\u00edstica, tablas estad\u00edsticas, ya sean tablas de datos simples o tablas de datos agrupados en intervalos, y los gr\u00e1ficos estad\u00edsticos. Despu\u00e9s, introduciremos las medidas de centralizaci\u00f3n y dispersi\u00f3n para cada uno de los tipos de tablas. Para finalizar, introduciremos las variables estad\u00edsticas bidimensionales, par\u00e1metros y rectas de regresi\u00f3n.",
+    "contents": [
+        "\u00a1Empezamos! \/ M\u00f3dulo 0. N\u00f3s come\u00e7amos!",
+        "Introducci\u00f3n a la estad\u00edstica descriptiva unidimensional, tablas",
+        "Par\u00e1metros estad\u00edsticos para tablas de datos simples. \/ M\u00f3dulo 2.",
+        "Par\u00e1metros estad\u00edsticos para datos agrupados en intervalos. \/ M\u00f3d",
+        "Estad\u00edstica bidimensional y regresi\u00f3n lineal. \/ M\u00f3dulo 4. Estat\u00eds"
+    ],
+    "instructors": "Juan Medina Molina",
+    "requirements": "Este curso requiere conocimientos previos m\u00ednimos: operaciones b\u00e1sicas,\r\nra\u00edz cuadrada, representaci\u00f3n de puntos y rectas en el plano.",
+    "length": "4 semanas (16 horas de estudio estimadas)",
+    "institutions": "Universidad Polit\u00e9cnica de Cartagena",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/estadistica-descriptiva-5edicion\/inicio",
+    "title": "Estad\u00edstica descriptiva (5.\u00aa edici\u00f3n) (Universidad Polit\u00e9cnica de Cartagena)",
+    "keywords": [
+        "estad\u00edstica",
+        " tablas estad\u00edsticas",
+        " mooc",
+        " gr\u00e1ficos estad\u00edsticos",
+        " regresi\u00f3n lineal",
+        " matem\u00e1ticas",
+        ""
+    ]
+}

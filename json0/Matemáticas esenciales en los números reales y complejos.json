@@ -1,0 +1,27 @@
+{
+    "description": "Este es un curso b\u00e1sico de matem\u00e1ticas con \u00e9nfasis en las operaciones de n\u00fameros reales y complejos. Esta dirigido a estudiantes de secundaria (bachillerato) de los tres \u00faltimos grados y a estudiantes universitarios de primer a\u00f1o. A los primeros les permitir\u00e1 estudiar los contenidos b\u00e1sicos de los n\u00fameros reales y complejos y a los segundos repasar y profundizar en la aplicaci\u00f3n de los conocimientos adquiridos en bachillerato, tambi\u00e9n a estos \u00faltimos les ayudar\u00e1 a superar los cursos universitarios de Fundamento de matem\u00e1tica que son los de mayor mortalidad en primer a\u00f1o de Universidad.",
+    "contents": [
+        "Introducci\u00f3n",
+        "Generalidades de los N\u00fameros Reales",
+        "Generalidades Racionales e Irracionales",
+        "N\u00fameros complejos y matrices",
+        "Potenciaci\u00f3n, radicaci\u00f3n y logaritmos en R"
+    ],
+    "instructors": "JUAN CARLOS CARDE\u00d1O ARDILA",
+    "requirements": "Operaciones b\u00e1sicas entre n\u00fameros naturales enteros, reales y complejos",
+    "length": "8 semanas",
+    "institutions": "Universidad de Ibagu\u00e9",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/matematicas-esenciales-numeros-reales-complejos-2-edic\/inicio",
+    "title": "Matem\u00e1ticas esenciales en los n\u00fameros reales y complejos (2.\u00aa edici\u00f3n) (Universidad de Ibagu\u00e9)",
+    "keywords": [
+        "matem\u00e1ticas",
+        " n\u00fameros reales",
+        " n\u00fameros complejos",
+        " matem\u00e1ticas b\u00e1sicas",
+        " mooc",
+        " logaritmos",
+        " matrices",
+        " radicaci\u00f3n",
+        " potenciaci\u00f3n"
+    ]
+}

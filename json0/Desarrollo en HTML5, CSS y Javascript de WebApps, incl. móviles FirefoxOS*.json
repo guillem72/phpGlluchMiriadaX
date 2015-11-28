@@ -1,0 +1,36 @@
+{
+    "description": "Este curso capacita para un primer nivel de desarrollo de aplicaciones m\u00f3viles en HTML5, CSS y JavaScript accesibles desde PC, m\u00f3vil, tableta, SmartTv u otros dispositivos que soporten HTML5. El curso es para principiantes en HTML5 e ilustra los conceptos con ejemplos sencillos y multidisciplinares, tanto de programaci\u00f3n, como de dise\u00f1o gr\u00e1fico o de dise\u00f1o de la interacci\u00f3n. Los participantes aprender\u00e1n a dise\u00f1ar interfaces con HTML y CSS, as\u00ed como a programar en JavaScript nuevas funcionalidades y aplicaciones. Se ense\u00f1ar\u00e1 a crear aplicaciones Web gen\u00e9ricas independientes de dispositivo, as\u00ed como a empaquetarlas para FirefoxOS. Empaquetarlas para Android o iPhone es sencillo, pero no se cubre en este curso. Firefox OS es el nuevo sistema operativo libre para tel\u00e9fonos m\u00f3viles y tabletas de la Fundaci\u00f3n Mozilla, que utiliza software libre y se programa en HTML5, utilizando HTML, CSS y Javascript, igual que las aplicaciones Web de los grandes portales de Internet, Google, Twitter, Facebook, Amazon. etc. Su calidad y car\u00e1cter abierto ha conseguido el apoyo de Telef\u00f3nica, Qualcomm, LG, Huawei Foxconn, etc. Este curso es el primero del programa \"Dise\u00f1o de servicios en la nube para acceso m\u00f3vil y multi-dispositivo con HTML5 \"impulsado y patrocinado por\u00a0Red.es,\u00a0Universia,\u00a0CENATIC,\u00a0Telef\u00f3nica Digital\u00a0y\u00a0TLS. El programa consta de 5 cursos, que se ir\u00e1n incorporando progresivamente en Mir\u00edadaX.  Esta iniciativa est\u00e1 recogida dentro de la medida \u201cFormaci\u00f3n para el Empleo\u201d del Plan de Inclusi\u00f3n Digital y Empleabilidad de la\u00a0Agenda Digital para Espa\u00f1a.",
+    "contents": [
+        "\"Dise\u00f1o de servicios en la nube para acceso m\u00f3vil con HTML5\".",
+        "Introducci\u00f3n a los elementos b\u00e1sicos de HTML, CSS, codificaci\u00f3n.",
+        "Estructura de la navegaci\u00f3n y el texto en p\u00e1ginas Web HTML5.",
+        "Estructuraci\u00f3n, visualizaci\u00f3n y depuraci\u00f3n con Firefox de HTML5.",
+        "Introducci\u00f3n a JavaScript, sentencias, variables, expresiones.",
+        "Primeros programas JavaScript, booleanos, igualdad y comparaci\u00f3n.",
+        "Objetos, propiedades, m\u00e9todos, eventos, formularios.",
+        "Interacci\u00f3n con el usuario, eventos y sus manejadores.",
+        "Ejemplo de un cron\u00f3metro. Eventos t\u00e1ctiles, localstorage y JSON.",
+        "Gr\u00e1ficos SVG y HTML5 CANVAS. Empaquetado de web apps Firefox OS.",
+        "API de geolocalizaci\u00f3n HTML5. Proyecto final del curso."
+    ],
+    "instructors": [
+        "Gabriel Huecas",
+        "Ignacio V\u00e1zquez Zapata",
+        "Juan Quemada Vives",
+        "Joaqu\u00edn Salvach\u00faa Rodr\u00edguez",
+        "Eugenio Vega Pindado",
+        "Santiago Pavon"
+    ],
+    "requirements": "Si bien el curso ha sido dise\u00f1ado para principiantes, se recomienda que\r\nlos asistentes tengan nociones b\u00e1sicas de programaci\u00f3n aunque pueda ser\r\nde otros lenguajes como Java, C, Basic, PHP, Python, Pascal, etc. Quien\r\ncarezca de tales conocimientos puede compensarlo con un trabajo m\u00e1s\r\nintenso. El curso tambi\u00e9n es de inter\u00e9s para programadores expertos que\r\nquieran adquirir en poco tiempo una panor\u00e1mica del dise\u00f1o de aplicaciones\r\nweb en HTML5 y para Firefox OS.",
+    "length": "5 semanas (50 horas de estudio estimadas)",
+    "institutions": "Universidad Polit\u00e9cnica de Madrid",
+    "url": "https:\/\/miriadax.net\/es_ES\/web\/html5mooc\/inicio",
+    "title": "Desarrollo en HTML5, CSS y Javascript de WebApps, incl. m\u00f3viles FirefoxOS* (5.\u00aa ed.) (Universidad Polit\u00e9cnica de Madrid)",
+    "keywords": [
+        "Mooc",
+        " HTML5",
+        " Firefox",
+        " Javascript",
+        " CSS"
+    ]
+}
