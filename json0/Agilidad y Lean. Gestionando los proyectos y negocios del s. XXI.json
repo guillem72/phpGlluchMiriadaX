@@ -1,27 +1,27 @@
 {
-    "description": "Los objetivos del curso son conocer qu\u00e9 es la agilidad y el Lean aplicado a la tecnolog\u00eda. Profundizar en las t\u00e9cnicas \u00e1giles que necesitar\u00e1 para gestionar con \u00e9xito el d\u00eda a d\u00eda de los proyectos software y tecnol\u00f3gicos.\u00a0 \u00a0 Durante el curso se profundizar\u00e1 en el cliclo de vida iterativo, el \u00e1gil, en c\u00f3mo se planifican y estiman este tipo de proyectos, c\u00f3mo se toman los requisitos, y se repasar\u00e1n las metodolog\u00edas m\u00e1s populares (c\u00f3mo Scrum y XP). Tambi\u00e9n se tratar\u00e1 el Lean, Kanban, y su relaci\u00f3n con la agilidad.",
+    "description": "Los objetivos del curso son conocer qué es la agilidad y el Lean aplicado a la tecnología. Profundizar en las técnicas ágiles que necesitará para gestionar con éxito el día a día de los proyectos software y tecnológicos.    Durante el curso se profundizará en el cliclo de vida iterativo, el ágil, en cómo se planifican y estiman este tipo de proyectos, cómo se toman los requisitos, y se repasarán las metodologías más populares (cómo Scrum y XP). También se tratará el Lean, Kanban, y su relación con la agilidad.",
     "contents": [
-        "Lecci\u00f3n 0",
-        "Lecci\u00f3n 1: Construir software no es como construir coches o casas",
-        "Lecci\u00f3n 2: Peopleware",
-        "Lecci\u00f3n 3: El \u201cProduct Owner\u201d y las historias de usuario",
-        "Lecci\u00f3n 4: Scrum",
-        "Lecci\u00f3n 5: La planificaci\u00f3n \u00e1gil",
-        "Lecci\u00f3n 6: Lean y Kanban",
+        "Lección 0",
+        "Lección 1: Construir software no es como construir coches o casas",
+        "Lección 2: Peopleware",
+        "Lección 3: El “Product Owner” y las historias de usuario",
+        "Lección 4: Scrum",
+        "Lección 5: La planificación ágil",
+        "Lección 6: Lean y Kanban",
         "Examen"
     ],
-    "instructors": "Javier Garz\u00e1s",
-    "requirements": "Conocimientos b\u00e1sicos en desarrollo software o en explotaci\u00f3n \u2013\r\noperaciones IT.",
+    "instructors": "Javier Garzás",
+    "requirements": "Conocimientos básicos en desarrollo software o en explotación –\r\noperaciones IT.",
     "length": "4 Semanas (50 horas de estudio estimadas)",
     "institutions": "Universidad Rey Juan Carlos",
     "url": "https:\/\/miriadax.net\/es_ES\/web\/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-5-edicion-\/inicio",
-    "title": "Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI (5\u00aa. edici\u00f3n) (Universidad Rey Juan Carlos)",
+    "title": "Agilidad y Lean. Gestionando los proyectos y negocios del s. XXI (5ª. edición) (Universidad Rey Juan Carlos)",
     "keywords": [
         "mooc",
-        " scrum",
-        " crystal clear",
-        " lean",
-        " kanban",
-        " software"
+        "scrum",
+        "crystal clear",
+        "lean",
+        "kanban",
+        "software"
     ]
 }

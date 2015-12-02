@@ -1,27 +1,27 @@
 {
-    "description": "Durante el desarrollo del curso, vamos a adquirir competencias que nos permitir\u00e1n manejar el aula virtual desde el rol de alumno y con enfoque docente. Cada m\u00f3dulo de aprendizaje permite al participante aprender sobre la plataforma Moodle y a usar sus herramientas que la misma ofrece. Adem\u00e1s, abordaremos temas como la planificaci\u00f3n de cada actividad a generar y la incorporaci\u00f3n de recursos Web 2.0. Los espacios de comunicaci\u00f3n son un factor clave en todo proceso de ense\u00f1anza-aprendizaje virtual es por ello, generaremos tipos de comunicaci\u00f3n social o de consultas.",
+    "description": "Durante el desarrollo del curso, vamos a adquirir competencias que nos permitirán manejar el aula virtual desde el rol de alumno y con enfoque docente. Cada módulo de aprendizaje permite al participante aprender sobre la plataforma Moodle y a usar sus herramientas que la misma ofrece. Además, abordaremos temas como la planificación de cada actividad a generar y la incorporación de recursos Web 2.0. Los espacios de comunicación son un factor clave en todo proceso de enseñanza-aprendizaje virtual es por ello, generaremos tipos de comunicación social o de consultas.",
     "contents": [
-        "Presentaci\u00f3n",
+        "Presentación",
         "La plataforma educativa Moodle",
-        "Planificaci\u00f3n y publicaci\u00f3n de recursos Moodle y de la web 2.0",
-        "Planificaci\u00f3n y creaci\u00f3n de actividades educativas en Moodle",
-        "Planificaci\u00f3n y creaci\u00f3n de espacios de comunicaci\u00f3n en Moodle"
+        "Planificación y publicación de recursos Moodle y de la web 2.0",
+        "Planificación y creación de actividades educativas en Moodle",
+        "Planificación y creación de espacios de comunicación en Moodle"
     ],
     "instructors": [
         "Juan Jose Flores Cueto",
-        "Rosa Mori S\u00e1nchez"
+        "Rosa Mori Sánchez"
     ],
-    "requirements": "Manejo de navegaci\u00f3n en Internet. Office (Word, Excel, PowerPoint). Manejo\r\nde una cuenta de correo electr\u00f3nico.",
+    "requirements": "Manejo de navegación en Internet. Office (Word, Excel, PowerPoint). Manejo\r\nde una cuenta de correo electrónico.",
     "length": "4 semanas (3 horas de estudio semanales estimadas)",
-    "institutions": "Universidad de San Mart\u00edn de Porres",
+    "institutions": "Universidad de San Martín de Porres",
     "url": "https:\/\/miriadax.net\/es_ES\/web\/construccion-de-un-curso-virtual-en-la-plataforma-moodle-5-edicion-\/inicio",
-    "title": "Construcci\u00f3n de un Curso Virtual en la Plataforma Moodle (5.\u00aa edici\u00f3n) (Universidad San Mart\u00edn de Porres)",
+    "title": "Construcción de un Curso Virtual en la Plataforma Moodle (5.ª edición) (Universidad San Martín de Porres)",
     "keywords": [
         "mooc",
-        " moodle",
-        " curso virtual",
-        " web 2.0",
-        " plataforma de formaci\u00f3n",
-        " plataforma"
+        "moodle",
+        "curso virtual",
+        "web 2.0",
+        "plataforma de formación",
+        "plataforma"
     ]
 }

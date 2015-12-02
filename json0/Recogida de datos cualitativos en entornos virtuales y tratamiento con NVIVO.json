@@ -1,14 +1,14 @@
 {
-    "description": "El curso est\u00e1 formado por cuatro m\u00f3dulos, un m\u00f3dulo introductorio sobre las t\u00e9cnicas de recogida de datos en entornos virtuales y el funcionamiento b\u00e1sico del programa NVIVO, un segundo sobre c\u00f3mo hacer cuestionarios abiertos en la red y analizarlos con NVIVO, un tercer m\u00f3dulo en el que se ver\u00e1 c\u00f3mo hacer entrevistas y posterior an\u00e1lisis y, finalmente, el m\u00f3dulo cuarto versar\u00e1 sobre la t\u00e9cnica del grupo de discusi\u00f3n y su an\u00e1lisis a trav\u00e9s del programa. Para el desarrollo del curso se utilizar\u00e1n las herramientas que la plataforma Mir\u00edada X tiene disponibles para la interacci\u00f3n alumnado-profesorado. Se aportar\u00e1n materiales acerca del curso elaborado por el propio profesorado, as\u00ed como la direcci\u00f3n web para descargar completamente gratuita y legal la DEMO del programa, por lo que deber\u00e1s gestionar de forma eficaz tu tiempo dedicado al curso. Habr\u00e1 ejercicios pr\u00e1cticos que ser\u00e1n evaluados de cada uno de los m\u00f3dulos.",
+    "description": "El curso está formado por cuatro módulos, un módulo introductorio sobre las técnicas de recogida de datos en entornos virtuales y el funcionamiento básico del programa NVIVO, un segundo sobre cómo hacer cuestionarios abiertos en la red y analizarlos con NVIVO, un tercer módulo en el que se verá cómo hacer entrevistas y posterior análisis y, finalmente, el módulo cuarto versará sobre la técnica del grupo de discusión y su análisis a través del programa. Para el desarrollo del curso se utilizarán las herramientas que la plataforma Miríada X tiene disponibles para la interacción alumnado-profesorado. Se aportarán materiales acerca del curso elaborado por el propio profesorado, así como la dirección web para descargar completamente gratuita y legal la DEMO del programa, por lo que deberás gestionar de forma eficaz tu tiempo dedicado al curso. Habrá ejercicios prácticos que serán evaluados de cada uno de los módulos.",
     "contents": [
-        "Presentaci\u00f3n.",
-        "Introducci\u00f3n acerca de las t\u00e9cnicas de recogida de datos y el pro",
+        "Presentación.",
+        "Introducción acerca de las técnicas de recogida de datos y el pro",
         "El cuestionario online",
         "La entrevista online",
-        "Los grupos de discusi\u00f3n online"
+        "Los grupos de discusión online"
     ],
     "instructors": [
-        "Andrea Guti\u00e9rrez Garc\u00eda",
+        "Andrea Gutiérrez García",
         "Beatriz Palacios Vicario"
     ],
     "requirements": "No se necesitan",
@@ -18,11 +18,11 @@
     "title": "Recogida de datos cualitativos en entornos virtuales y tratamiento con NVIVO (Universidad Pontificia de Salamanca)",
     "keywords": [
         "entornos virtuales",
-        " nvivo",
-        " cuestionario online",
-        " entrevista online",
-        " grupos de discusi\u00f3n online",
-        " mooc",
-        " programa nvivo"
+        "nvivo",
+        "cuestionario online",
+        "entrevista online",
+        "grupos de discusión online",
+        "mooc",
+        "programa nvivo"
     ]
 }

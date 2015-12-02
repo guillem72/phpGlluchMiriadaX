@@ -1,30 +1,30 @@
 {
-    "description": "El curso est\u00e1 dividido en tres m\u00f3dulos, cada uno de los cuales est\u00e1 dise\u00f1ado para realizarse en dos semanas. En los distintos m\u00f3dulos se dar\u00e1 una visi\u00f3n bastante completa de los est\u00e1ndares criptogr\u00e1ficos que se utilizan actualmente. No se incluir\u00e1n referencias hist\u00f3ricas ni se analizar\u00e1n modelos te\u00f3ricos. El curso estudiar\u00e1 \u00fanicamente m\u00e9todos modernos y reales, siendo el m\u00e1s antiguo de los estudiados el DES (Data Encryption Standard) y el SHA1. Se ver\u00e1n adem\u00e1s de estos los sitemas AES, ECC, DSA, ECDSA bas\u00e1ndonos en los est\u00e1ndares del FIPS (Federal Information Processing Standards). Todo este estudio se acompa\u00f1ar\u00e1 de un an\u00e1lisis de aspectos matem\u00e1ticos relacionados con ellos, as\u00ed como algunas cuestiones m\u00e1s avanzadas de implementaci\u00f3n de los mismos.",
+    "description": "El curso está dividido en tres módulos, cada uno de los cuales está diseñado para realizarse en dos semanas. En los distintos módulos se dará una visión bastante completa de los estándares criptográficos que se utilizan actualmente. No se incluirán referencias históricas ni se analizarán modelos teóricos. El curso estudiará únicamente métodos modernos y reales, siendo el más antiguo de los estudiados el DES (Data Encryption Standard) y el SHA1. Se verán además de estos los sitemas AES, ECC, DSA, ECDSA basándonos en los estándares del FIPS (Federal Information Processing Standards). Todo este estudio se acompañará de un análisis de aspectos matemáticos relacionados con ellos, así como algunas cuestiones más avanzadas de implementación de los mismos.",
     "contents": [
-        "Presentaci\u00f3n",
+        "Presentación",
         "Permutaciones, Resumen Digital y Sistemas de Clave Privada",
-        "Aritm\u00e9tica Entera y Modular. Sistemas de Clave P\u00fablica y Firma Di",
-        "Geometr\u00eda sobre cuerpos finitos. Sistemas de Clave P\u00fablica y Firm"
+        "Aritmética Entera y Modular. Sistemas de Clave Pública y Firma Di",
+        "Geometría sobre cuerpos finitos. Sistemas de Clave Pública y Firm"
     ],
-    "instructors": "Leandro Mar\u00edn Mu\u00f1oz",
-    "requirements": "Se presupone cierta familiaridad del alumno con la criptograf\u00eda y\r\nconocimientos matem\u00e1ticos y de programaci\u00f3n a nivel universitario",
+    "instructors": "Leandro Marín Muñoz",
+    "requirements": "Se presupone cierta familiaridad del alumno con la criptografía y\r\nconocimientos matemáticos y de programación a nivel universitario",
     "length": "6 semanas (18 horas estimadas de estudio)",
     "institutions": "Universidad de Murcia",
     "url": "https:\/\/miriadax.net\/es_ES\/web\/criptologia-matematica\/inicio",
-    "title": "Criptolog\u00eda matem\u00e1tica (Universidad de Murcia)",
+    "title": "Criptología matemática (Universidad de Murcia)",
     "keywords": [
-        "criptolog\u00eda",
-        " AES",
-        " ECC",
-        " DSA",
-        " ECDSA",
-        " FIPS",
-        " SHA1",
-        " permutaciones",
-        " matem\u00e1ticas",
-        " aritm\u00e9tica",
-        " firma digital",
-        " curvas el\u00edpticas",
-        " mooc"
+        "criptología",
+        "AES",
+        "ECC",
+        "DSA",
+        "ECDSA",
+        "FIPS",
+        "SHA1",
+        "permutaciones",
+        "matemáticas",
+        "aritmética",
+        "firma digital",
+        "curvas elípticas",
+        "mooc"
     ]
 }

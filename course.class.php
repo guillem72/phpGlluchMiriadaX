@@ -89,7 +89,7 @@ public function save($destination=false)
 	if (!$destination AND !$this->file_target)
 		return false; //TODO warning
 	if ($destination) $this->file_target=$destination;
-	file_put_contents($this->file_target,json_encode($this->processed, JSON_PRETTY_PRINT));	
+	file_put_contents($this->file_target,json_encode($this->processed, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));	
 }
 
 public function get_info_course()
@@ -120,7 +120,7 @@ public function get_info_course()
 		}
 		
 	}
-	if (isset($devolver["keywords"])) $devolver["keywords"]=explode(",",$devolver["keywords"]);
+	if (isset($devolver["keywords"])) $devolver["keywords"]=array_map('trim',explode(",",$devolver["keywords"]));
 	$this->processed=$devolver;
 	return $devolver;
 }

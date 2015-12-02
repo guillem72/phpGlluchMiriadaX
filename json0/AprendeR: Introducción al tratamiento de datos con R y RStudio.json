@@ -1,35 +1,35 @@
 {
-    "description": "El avance de las tecnolog\u00edas permite recoger un n\u00famero creciente de conjuntos de datos, cada vez mayores, relacionados con ciencias experimentales, sanidad, econom\u00eda, ciencias sociales, comunicaci\u00f3n, etc. Saber explorar, describir y analizar conjuntos de datos es una competencia cada d\u00eda m\u00e1s valorada por los empleadores y m\u00e1s necesaria para comprender lo que nos rodea, e imprescindible en un cient\u00edfico. Este curso es una introducci\u00f3n al manejo de R y RStudio en la descripci\u00f3n, an\u00e1lisis y visualizaci\u00f3n de conjuntos de datos. R es un entorno de programaci\u00f3n estad\u00edstico muy potente de c\u00f3digo libre, que se ha convertido en herramienta de referencia para empresas como Google o Facebook. El objetivo del curso es capacitar a los estudiantes para analizar y representar gr\u00e1ficamente conjuntos de datos y redactar informes estad\u00edsticos de apariencia profesional, prepar\u00e1ndolos adem\u00e1s para cursar cursos m\u00e1s avanzados sobre uso de R en estad\u00edstica inferencial, aprendizaje estad\u00edstico, miner\u00eda de datos, etc",
+    "description": "El avance de las tecnologías permite recoger un número creciente de conjuntos de datos, cada vez mayores, relacionados con ciencias experimentales, sanidad, economía, ciencias sociales, comunicación, etc. Saber explorar, describir y analizar conjuntos de datos es una competencia cada día más valorada por los empleadores y más necesaria para comprender lo que nos rodea, e imprescindible en un científico. Este curso es una introducción al manejo de R y RStudio en la descripción, análisis y visualización de conjuntos de datos. R es un entorno de programación estadístico muy potente de código libre, que se ha convertido en herramienta de referencia para empresas como Google o Facebook. El objetivo del curso es capacitar a los estudiantes para analizar y representar gráficamente conjuntos de datos y redactar informes estadísticos de apariencia profesional, preparándolos además para cursar cursos más avanzados sobre uso de R en estadística inferencial, aprendizaje estadístico, minería de datos, etc",
     "contents": [
-        "Presentaci\u00f3n.",
-        "Introducci\u00f3n al R: instalaci\u00f3n y uso b\u00e1sico.",
+        "Presentación.",
+        "Introducción al R: instalación y uso básico.",
         "Listas y matrices.",
         "Tablas de datos.",
-        "Gr\u00e1ficos I.",
-        "Descripci\u00f3n de datos cualitativos y ordinales.",
-        "Descripci\u00f3n de datos cuantitativos.",
+        "Gráficos I.",
+        "Descripción de datos cualitativos y ordinales.",
+        "Descripción de datos cuantitativos.",
         "Datos cuantitativos agrupados.",
-        "Algunos gr\u00e1ficos descriptivos avanzados."
+        "Algunos gráficos descriptivos avanzados."
     ],
     "instructors": [
         "Ricardo Alberich",
-        "Cesc Rossell\u00f3",
-        "Sebasti\u00e1n Massanet Massanet",
+        "Cesc Rosselló",
+        "Sebastián Massanet Massanet",
         "Arnau Mir Torres",
-        "Jos\u00e9 Juan Antonio Mir\u00f3 Juli\u00e0",
-        "Luc\u00eda Rotger Garc\u00eda"
+        "José Juan Antonio Miró Julià",
+        "Lucía Rotger García"
     ],
-    "requirements": "En algunos temas opcionales, dirigidos espec\u00edficamente a cubrir algunas\r\nnecesidades espec\u00edficas de los estudiantes de grado o ingenier\u00eda, ser\u00e1n\r\nnecesarios algunos conocimientos matem\u00e1ticos de nivel de 1\u00ba de un grado\r\ncient\u00edfico. Por otro lado, una parte de la documentaci\u00f3n complementaria\r\nestar\u00e1 en ingl\u00e9s, por lo que se recomienda un nivel m\u00ednimo de este\r\nidioma que permita consultar documentos t\u00e9cnicos sencillos. Sin embargo,\r\nla carencia de ambos no impedir\u00e1 de ninguna manera poder lograr todos los\r\nobjetivos del curso.",
+    "requirements": "En algunos temas opcionales, dirigidos específicamente a cubrir algunas\r\nnecesidades específicas de los estudiantes de grado o ingeniería, serán\r\nnecesarios algunos conocimientos matemáticos de nivel de 1º de un grado\r\ncientífico. Por otro lado, una parte de la documentación complementaria\r\nestará en inglés, por lo que se recomienda un nivel mínimo de este\r\nidioma que permita consultar documentos técnicos sencillos. Sin embargo,\r\nla carencia de ambos no impedirá de ninguna manera poder lograr todos los\r\nobjetivos del curso.",
     "length": "8 semanas (24 horas de estudio estimadas)",
     "institutions": "Universidad Illes Balears",
     "url": "https:\/\/miriadax.net\/es_ES\/web\/aprende-r-rstudio\/inicio",
-    "title": "AprendeR: Introducci\u00f3n al tratamiento de datos con R y RStudio (UNIVERSIDAD ILLES BALEARS)",
+    "title": "AprendeR: Introducción al tratamiento de datos con R y RStudio (UNIVERSIDAD ILLES BALEARS)",
     "keywords": [
         "Mooc",
-        " R",
-        " Informes",
-        " Rstudio",
-        " Datos",
-        " Informes"
+        "R",
+        "Informes",
+        "Rstudio",
+        "Datos",
+        "Informes"
     ]
 }
