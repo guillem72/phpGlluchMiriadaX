@@ -9,7 +9,7 @@ normalize_all();
 
 function normalize ($texto)
 {
-	$analizador = new analyzer("192.168.12.61:5005");
+	$analizador = new analyzer("192.168.12.62:2002");
 	//var_dump($texto);
 	$output=$analizador->analyze_text($texto);
 	//echo $output;
@@ -102,7 +102,7 @@ while ($item = readdir($dir))
 		file_put_contents("log/".$item,$des2);
 		file_put_contents($path_target.$item,json_encode($info, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 	}
-	if ($limit++>5) break;
+	//if ($limit++>5) break;
 }
 }
 ?>
