@@ -12,7 +12,7 @@ Tested in novembre 2015
 Save one by one the html files you are interesed 
 in and save in _courses_ dir.
  
- ##Order of execution
+ ## Execution order
  
  This files has to be executed in php CLI in this order:
  
